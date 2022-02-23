@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - 
 -Instagram @lone_aadil_oficial
-[Instagram - @Lone_aadil_official](https://www.instagram.com/lone_aadil_oficial/)
+[Instagram - @Lone_aadil_official](https://www.instagram.com/lone_aadil_official/)
 
 <!---
 loneaaaadil/loneaaaadil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
