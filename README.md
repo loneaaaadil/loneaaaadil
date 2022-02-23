@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @loneaaaadil
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...play with widgets
+- 🌱 I’m currently learning ...Flutter
+- 💞️ I’m looking to collaborate on ...dart
 - 📫 How to reach me ...
+- 
+-Instagram @lone_aadil_oficial
 
 <!---
 loneaaaadil/loneaaaadil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
